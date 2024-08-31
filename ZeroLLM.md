@@ -3,7 +3,7 @@ AgentZero LLM: Comprehensive Project Outline for GitHub
 1. Introduction: Project Vision and Scope
 Purpose: To develop a powerful, adaptive LLM (Large Language Model) named AgentZero LLM, integrating diverse datasets and advanced mathematical frameworks to enable unprecedented AI capabilities.
 Goal: To create an open-source model that can leverage the capabilities of a 70B parameter model, tested initially with smaller models like LLaMA 3.1 8B or Mistral 8B, providing a scalable path for future enhancements.
-Impact: Enable the community to explore quantum thinking principles, advanced mathematics, and personalized AI interactions through a uniquely trained model.
+Impact: Enable the community to explore quantum thinking principles, advanced mathematics, and personalized AI interactions through a uniquely trained model. The LLM to fine tune would need to be at least 400b in my opinion. though workarounds using cpu only may also provide other ways of utilising current tech to achieve future tech aims. 
 
 2. Data Sources and Integration Strategy
 Twitter Data: Utilize your own Twitter data, focusing on coherent, understandable text that reflects diverse topics, personal insights, and professional expertise.
