@@ -1,3 +1,4 @@
+![Agent Zero Logo](image (39).pngg)
 # Agent Zero: The Real "Q" Strawberry
 
 ## Overview
