@@ -1,5 +1,8 @@
 # Community-Zero: Create and Share Your Own Version of Agent Zero!
 
+![Agent Zero Visualization](https://github.com/ResearchForumOnline/agentzero-the-real-q-strawberry/raw/main/image%20(39).png)
+
+
 Welcome to the **Community-Zero** page! We invite AI enthusiasts, developers, mathematicians, and researchers to contribute their own customized versions of **Agent Zero**.
 
 ## How to Contribute Your Version
