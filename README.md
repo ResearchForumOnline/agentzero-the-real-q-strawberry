@@ -1,4 +1,6 @@
-![Agent Zero Logo](image (39).pngg)
+![Description of Image](https://github.com/ResearchForumOnline/agentzero-the-real-q-strawberry/raw/main/image%20(39).png)
+
+
 # Agent Zero: The Real "Q" Strawberry
 
 ## Overview
