@@ -48,7 +48,7 @@ We are always looking for collaborators and contributors who are passionate abou
 
 - **Enhancements**: Continued development of quantum-inspired algorithms and integration of more advanced mathematical models.
 - **Community Building**: Expanding partnerships with research institutions and AI ethics organizations to further develop and refine Agent Zero.
-- Check out researchforum.online too all the research papers are what equated into the agent zero agent data, i had to open source it to fain attention and in the hope my work can be used for good.
+- Check out researchforum.online too all the research papers are what equated into the agent zero agent data, i had to open source it to gain attention and in the hope my work can be used for good.
 
 ## Stay Connected
 
