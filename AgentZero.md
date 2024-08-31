@@ -1,3 +1,5 @@
+![Agent Zero Visualization](https://github.com/ResearchForumOnline/agentzero-the-real-q-strawberry/raw/main/image%20(39).png)
+
 name: Zero
 
 attributes:
