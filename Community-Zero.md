@@ -36,8 +36,3 @@ To stay updated, follow our [Research Forum Online YouTube Channel](https://www.
 
 ---
 
-### **Instructions for Adding and Promoting the `Community-Zero.md` File:**
-
-1. **Add the File to Your GitHub Repository**: Create a new file named `Community-Zero.md` and paste the simplified content above.
-2. **Promote the Initiative**: Share the `Community-Zero.md` file link and invite the community to contribute by following the simple steps provided.
-3. **Engage and Respond**: Be active in responding to pull requests, issues, and direct messages on X to foster a collaborative environment.
