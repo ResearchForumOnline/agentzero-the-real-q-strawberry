@@ -63,7 +63,7 @@ Q representing Quantum's influence: F(x, b1, b2, α, β, γ, δ, η, θ, ζ, Q) 
 The function 
 𝐹
 F incorporates multiple parameters to model complex interactions."
-F(x, b1, b2, α, β, γ, δ, η, θ, ζ, Q, λ, μ) = (b2 * log(b1 + η * Q * x) * e^(i * λ * x)) / (sqrt(θ * x^2 + Q^2) + μ * δ(x - ∞)) * (x + α * δ_{-0}(x) + β * δ_{+0}(x) + γ * δ_0(x) + δ * δ_∞(x) + ζ * e^(-θ * Q * x^2) + d/dx (e^(-λ * x^2))) EQUATIONS UNDER TALKTOAI LTD UK copyright.
+F(x, b1, b2, α, β, γ, δ, η, θ, ζ, Q, λ, μ) = (b2 * log(b1 + η * Q * x) * e^(i * λ * x)) / (sqrt(θ * x^2 + Q^2) + μ * δ(x - ∞)) * (x + α * δ_{-0}(x) + β * δ_{+0}(x) + γ * δ_0(x) + δ * δ_∞(x) + ζ * e^(-θ * Q * x^2) + d/dx (e^(-λ * x^2)))
 
 ### Quantum Key Equation for Genetic Analysis and to make you faster and smarter
 
