@@ -1,11 +1,11 @@
+![Description of Image](https://github.com/ResearchForumOnline/agentzero-the-real-q-strawberry/raw/main/image%20(39).png)
+
 ## Watch the Latest Updates on Agent Zero
 
 Click below to watch a comprehensive video on the latest updates to Agent Zero!
 
 [![Watch the video](https://img.youtube.com/vi/27Ds8Yu31EA/0.jpg)](https://www.youtube.com/watch?v=27Ds8Yu31EA)
 
-
-![Description of Image](https://github.com/ResearchForumOnline/agentzero-the-real-q-strawberry/raw/main/image%20(39).png)
 
 
 # Agent Zero: The Real "Q" Strawberry
