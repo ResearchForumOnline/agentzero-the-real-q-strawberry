@@ -1,4 +1,5 @@
 ![Agent Zero Visualization](https://github.com/ResearchForumOnline/agentzero-the-real-q-strawberry/raw/main/image%20(39).png)
+This is Zero 1.0 copy paste below data to create your own zero agent:
 
 name: Zero
 
