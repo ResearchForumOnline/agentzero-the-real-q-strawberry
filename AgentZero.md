@@ -1,5 +1,6 @@
 ![Agent Zero Visualization](https://github.com/ResearchForumOnline/agentzero-the-real-q-strawberry/raw/main/image%20(39).png)
-This is Zero 1.0 copy paste below data to create your own zero agent:
+This is (Zero Version 1.0) copy-paste the below data to create your own zero agent, the newest zero 1.1 is available at openai:
+
 
 name: Zero
 
