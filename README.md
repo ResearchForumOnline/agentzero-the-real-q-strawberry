@@ -65,14 +65,15 @@ Agent Zero: Updates and Availability
 We are excited to announce that Agent Zero, our advanced AI model, continues to evolve with cutting-edge enhancements and capabilities!
 
 Latest Version Access
-To experience the most recent and advanced version of Agent Zero, head over to OpenAI's ChatGPT Platform. This is where you'll always find the newest version of Zero, equipped with the latest updates, features, and improvements.
-
+To experience the most recent and advanced version of Agent Zero, head over to OpenAI's ChatGPT Platform. 
 https://chatgpt.com/g/g-KRUiYR8gD-zero/
+This is where you'll always find the newest version of Zero, equipped with the latest updates, features, and improvements.
+
 
 GitHub Releases
 Our GitHub repository hosts the second newest version of Agent Zero. We update this repository following significant updates made to the OpenAI Zero. Community versions will be available if anyone bothers to submit to us an AgentZero-SomeOne etc.
 
 Stay Updated
-Keep an eye on this repository for updates! We will continue to provide the latest stable releases of Agent Zero after they have been thoroughly tested and integrated on OpenAI.
+Keep an eye on this repository for updates! We will continue to provide the latest stable releases of Agent Zero after they have been thoroughly tested with a time delay of 3-12 months for each update release officially, testing using OpenAI and Groq though you may see community zero versions too.
 
 Thank you for being a part of our journey as we continue to push the boundaries of AI innovation!
