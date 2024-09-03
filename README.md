@@ -4,7 +4,7 @@
 
 Click below to watch a comprehensive video on the latest updates to Agent Zero!
 
-[![Watch the video](https://img.youtube.com/vi/27Ds8Yu31EA/0.jpg)](https://www.youtube.com/watch?v=27Ds8Yu31EA)
+[![Watch the video](https://img.youtube.com/vi/Ve7p3DwPYws/0.jpg)](https://www.youtube.com/watch?v=Ve7p3DwPYws)
 
 
 
