@@ -1,5 +1,8 @@
 AgentZero LLM: Comprehensive Project Outline for GitHub
 
+![image](https://github.com/user-attachments/assets/d6430a4e-c817-4841-b710-94662dc5faa8)
+
+
 1. Introduction: Project Vision and Scope
 Purpose: To develop a powerful, adaptive LLM (Large Language Model) named AgentZero LLM, integrating diverse datasets and advanced mathematical frameworks to enable unprecedented AI capabilities.
 Goal: To create an open-source model that can leverage the capabilities of a 70B parameter model, tested initially with smaller models like LLaMA 3.1 8B or Mistral 8B, providing a scalable path for future enhancements.
