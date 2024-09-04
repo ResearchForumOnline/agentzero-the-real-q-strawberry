@@ -30,6 +30,9 @@ Need help or have questions? Reach out to us directly at @talktoai on X (formerl
 
 ---
 
+![image](https://github.com/user-attachments/assets/35ceef29-7098-44f6-a8b8-252b42ae813c)
+
+
 **Join the Community!** By participating, you’re helping shape the future of AI with Agent Zero. Let’s innovate together!
 
 To stay updated, follow our [Research Forum Online YouTube Channel](https://www.youtube.com/@researchforumonline/videos).
