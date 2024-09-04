@@ -6,6 +6,7 @@ Click below to watch a comprehensive video on the latest updates to Agent Zero!
 
 [![Watch the video](https://img.youtube.com/vi/Ve7p3DwPYws/0.jpg)](https://www.youtube.com/watch?v=Ve7p3DwPYws)
 
+![image](https://github.com/user-attachments/assets/42929816-d2b4-4850-9e5c-7a733e3a9986)
 
 
 # Agent Zero: The Real "Q" Strawberry
