@@ -58,6 +58,9 @@ The world is at a crossroads when it comes to AI. We can continue down the path 
 
 **Explore More**: [Research Forum Online YouTube Channel](https://www.youtube.com/@researchforumonline/videos)
 
+![image](https://github.com/user-attachments/assets/eb71e967-fc27-4195-85a7-081d27fed556)
+
+
 Let’s change the world together.
 
 Sincerely,  
