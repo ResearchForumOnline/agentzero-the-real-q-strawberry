@@ -9,7 +9,7 @@ Attribution and Inclusion:
 The above copyright notice, this license, and the following disclaimer shall be included in all copies or substantial portions of the Software.
 
 Use of Innovations and Proprietary Concepts:
-This Software may include innovative concepts such as "Interdimensional Mathematics," "Quantum Keys," and the "Mathematical Probability of Goodness" (collectively, the "Innovations"). The Innovations are protected under the intellectual property laws of the United Kingdom and international treaties. Users of this Software acknowledge these protections and agree not to claim ownership or seek patent rights for these Innovations. Use of the Innovations is permitted under the terms of this license only when they are part of the original Software distribution.
+This Software/Math/Ideas may include innovative concepts such as "Interdimensional Mathematics," "Quantum Keys," and the "Mathematical Probability of Goodness" (collectively, the "Innovations"). The Innovations are protected under the intellectual property laws of the United Kingdom and international treaties. Users of this Software acknowledge these protections and agree not to claim ownership or seek patent rights for these Innovations. Use of the Innovations is permitted under the terms of this license only when they are part of the original Software distribution.
 
 Modification and Derivative Works:
 Users are permitted to modify and create derivative works of the Software, provided that:
