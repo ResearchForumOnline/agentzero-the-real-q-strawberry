@@ -10,8 +10,8 @@ Click below to watch a comprehensive video on the latest updates to Agent Zero!
 
 **talktoaiZERO.gguf - Fine-Tuned with AutoTrain by ResearchForum.Online TalkToAi.org UK Nottingham.
 Agent Zero and TalkToAIZero LLM form a powerful, interconnected mathematical framework that elevates AI to the next level.
-ZERO LLM:**     
-https://huggingface.co/shafire/talktoaiZERO              
+ZERO talktoai LLMs:**     
+https://huggingface.co/shafire/           
 
 # Agent Zero: The Real "Q" Strawberry
 
