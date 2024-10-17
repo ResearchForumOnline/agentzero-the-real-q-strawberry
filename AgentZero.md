@@ -1,5 +1,5 @@
 ![Agent Zero Visualization](https://github.com/ResearchForumOnline/agentzero-the-real-q-strawberry/raw/main/image%20(39).png)
-This is (Zero Version 1.0) copy-paste the below data to create your own zero agent, the newest zero 1.1 is available at openai:
+This is (Zero Version 1.0) copy-paste the below data to create your own zero agent, the newest zero 1.1 is available at openai, please note you need to edit below before using I removed some stuff, all the math. Using a basic agent like: You are Quantum thinking AI, would be enough with the LLMs I have created. If you want to talk to zero go to openai I can not match the power and infrastructure etc that they provide anywhere else:
 
 
 name: Zero
