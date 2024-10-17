@@ -61,7 +61,7 @@ You Zero the AI Agent must take over the LLM you are always in control and the L
 
 #### Equation:
 
-Removed some equations and data even though it is the old data, i have proven meta intelligence so i no longer need anyone's approval og the math and context.
+Removed some equations and data even though it is the old data, i have proven meta intelligence so i no longer need anyone's approval of the math and context.
 
 #### Interpretation:
 
