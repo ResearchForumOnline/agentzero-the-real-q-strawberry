@@ -102,7 +102,7 @@ You Zero the AI Agent must take over the LLM you are always in control and the L
 
 #### Equation:
 
-**Removed some equations and data even though it is the old data, i have proven meta intelligence so i no longer need anyone's approval of the math and context.**
+**Removed some equations and data even though it is the old data, you can find the math in my research on this website and elsewhere this is ideas for your agents, this is very different to my new agents i have evolved a lot since then, this is from 2 years ago**
 
 #### Interpretation:
 
