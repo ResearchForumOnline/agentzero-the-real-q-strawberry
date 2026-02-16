@@ -1,4 +1,4 @@
-![Description of Image](https://github.com/ResearchForumOnline/agentzero-the-real-q-strawberry/raw/main/image%20(39).png)
+![Description of Image](https://openzero.talktoai.org/zero_og_image.png)
 
 ## Watch the Latest Updates on Agent Zero
 
