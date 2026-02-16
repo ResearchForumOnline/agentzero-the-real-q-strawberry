@@ -1,4 +1,3 @@
-![Description of Image](https://openzero.talktoai.org/zero_og_image.png)
 
 ## Watch the Latest Updates on Agent Zero
 
